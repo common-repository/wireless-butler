@@ -1,0 +1,183 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.wireless_butler_form_1{
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  padding: 10px;
+  max-width:960px;
+  }
+.wireless_butler_form_1 .clearfix{clear:both}
+.wireless_butler_form_1 .titlebill h3{color:#000;font-size:30px;font-weight:500;margin-top:10px}
+.wireless_butler_form_1 .titlebill h3 span{font-weight:bold;}
+.wireless_butler_form_1 .title-heading{font-size:20px;font-weight:500;background: #f8f8f8;padding: 16px;width:100%}
+.wireless_butler_form_1 .col-6{flex: 0 0 50%;margin-top:37px;max-width: 50%;}
+.wireless_butler_form_1 .bill-form{margin-top:40px;}
+.wireless_butler_form_1 .bill-form label{color:#000;font-size:18px;font-weight: 500;padding-left: 20px;}
+.wireless_butler_form_1 .formrow{display: flex;
+    flex-wrap: wrap;
+    margin-right: -5px;
+    margin-left: -5px;}
+.wireless_butler_form_1 .formrow>[class*="col-"] {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.wireless_butler_form_1 .formcntrl{
+    display: block;
+    width: 100%;
+    height: 38px;
+    padding: 28px 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #495057;
+    border: 2px solid #c5ced6;
+    margin-top:15px;
+    }
+.wireless_butler_form_1 .col-12{width:100%}
+.wireless_butler_form_1 .select-opt{line-height:40px;width: 100%;}
+.wireless_butler_form_1 .select-opt-title{line-height:30px;font-size: 22px;font-weight: 500;margin: 2px 0px 10px 0;}
+.wireless_butler_form_1 .col-3{flex: 0 0 25%;margin-top:37px;max-width: 25%;}
+.wireless_butler_form_1 .input-bx .formcntrl{max-width: 100%;}
+.wireless_butler_form_1 .input-bx{position:relative;}
+.wireless_butler_form_1 .input-bx i{position: absolute;top: 20px;z-index: 1234;left: 20px;}
+.wireless_butler_form_1 .select2-selection__arrow::before {
+    content: '\f312';
+    font-family: Material-Design-Iconic-Font;
+    font-size: 18px;
+    color: #555555;
+}
+.wireless_butler_form_1 .select2-container--default .select2-selection--single .select2-selection__arrow b{display:none;}
+.wireless_butler_form_1 .select2-container--default .select2-selection--single{border:none !important}
+.wireless_butler_form_1 .input-select .formcntrl{padding: 15px 20px 5px 5px;height: 60px;}
+.wireless_butler_form_1 .select2-container{width:100% !Important}
+.wireless_butler_form_1 .inputmrgin{border-top: 1px solid #c5ced6;margin-top: 40px;padding-top: 40px;}
+.wireless_butler_form_1 .mt0{margin-top:0}
+.wireless_butler_form_1 .col-3.mt0 .formcntrl{padding-left:35px}
+.wireless_butler_form_1 .dropzone-section{width: 100%;margin: 60px 5px;}
+.wireless_butler_form_1 #drop{width: 100%;
+    height: 230px;
+    padding: 15px;
+    border-style: dashed;
+    border-color: #c5ced6;
+    border-width: 2px;
+    background-color: #fff;
+    color: #462a51;}
+.wireless_butler_form_1 .dropzone .dz-default.dz-message .dz-button{display: block;
+    text-align: center;
+    width: 100%;
+    font-size: 32px;
+    color: #c5ced6;
+	margin-top:25px;
+	}
+.wireless_butler_form_1 .dz-default.dz-message i{font-size: 30px;
+    margin-top: 30px;
+    color: #000;}
+.wireless_butler_form_1 .submit-btn button{color:#fff;text-align:center}
+.wireless_butler_form_1 .btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.wireless_butler_form_1 .submit-btn-sec{width: 100%;
+    padding: 3px;}
+.wireless_butler_form_1 .submit-btn.btn {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    padding: 10px 17px 10px 4px;
+    font-size: 20px;
+    border-radius: 0px;
+}
+.wireless_butler_form_1 .py-title{font-size:29px;font-weight: 600;}
+.wireless_butler_form_1 .update-sec{margin-top:30px;}
+.wireless_butler_form_1 .btn.updtebtn {
+    float: right;
+    color: #fff;
+    width: 230px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 0;
+    font-size: 15px;
+}
+.wireless_butler_form_1 .btn.showpln {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    padding: 10px 17px 10px 4px;
+    font-size: 20px;
+    border-radius: 0px;
+	margin: 40px 0px;
+}
+.wireless_butler_form_1 .newdtail{margin:30px 0px 15px 0px}
+
+.wireless_butler_form_1 .hide{
+    display: none;
+}
+.mt15{margin-top:15px}
+.wireless_butler_form_1 .col-4{width: 33.33%;}
+
+.wireless_butler_form_1 .plan-table table {
+    border-collapse: collapse;
+}
+.wireless_butler_form_1 .plan-table .table-bordered td, .wireless_butler_form_1 .plan-table .table-bordered th {
+    border: 2px solid #000000;
+    padding: 10px;
+    font-size: 15px;
+}
+.wireless_butler_form_1 .plan-table .table-bordered td{text-align:right;font-weight:600}
+.wireless_butler_form_1 .plan-table .table-bordered td:first-child{width:23%; word-break: normal;}
+.wireless_butler_form_1 .plan-table .table-bordered th{font-weight:600}
+
+.wireless_butler_form_1 .loader-img {
+    width: 20px;
+    display: inline-block;
+    vertical-align: -3px;
+    margin-right: 10px;
+}
+.wireless_butler_form_1 button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+.wireless_butler_form_1 .reach-txt{
+    padding: 10px;
+}
+.carrier-select{
+    background: #fff;
+    padding-top: 5px !important;
+}
+.wireless_butler_form_1 .powered_text{
+    display: block;
+    color: #a2a2a2;
+    font-size: 15px;
+}
+.wireless_butler_form_1 .err {
+    font-size: 14px;
+    color: red;
+    margin-top: 5px;
+}
+.wireless_butler_form_1 textarea.formcntrl {
+    resize: none;
+    height: auto;
+    padding-top: 10px;
+}
+.wireless_butler_form_1 .bill-form label.formcntrl {
+    padding: 10px 40px;
+    display: initial;
+    cursor: pointer;
+}

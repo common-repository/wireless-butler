@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #wireless_butler_add_regex .form-field input, #wireless_butler_add_regex .form-field textarea {
+    width: 25em;
+}
+.wireless-butler_page_wireless_butler_plan_db, .admin_page_wireless_butler_customer_recommendation_plan{
+    table-layout: auto !important;
+}
